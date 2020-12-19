@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A4149</color>
+    <color name="colorPrimaryDark">#11262A</color>
+    <color name="colorAccent">#406673</color>
+    <color name="orange">#F9AA33</color>
+    <color name="black">#000</color>
+
+    <color name="white">#fff</color>
+    <color name="gray">#E3E0E0</color>
+    <color name="button_color">#d32f2f</color>
+
+    <color name="cases">#FFA726</color>
+    <color name="recovered">#64dd17</color>
+    <color name="death">#EF5350</color>
+    <color name="active">#29B6F6</color>
+</resources>
